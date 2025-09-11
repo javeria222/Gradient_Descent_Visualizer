@@ -1,1 +1,0 @@
-# Gradient_Descent_Visualizer
