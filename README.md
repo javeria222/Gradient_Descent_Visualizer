@@ -18,3 +18,5 @@ Animate the movement of the point along the descent path until convergence.
 
 #Requirments:
 Along with python, install matplotlib and NumPy.
+
+Note: Please check the OldVersion branch, main branch is still under working. Thank You!
